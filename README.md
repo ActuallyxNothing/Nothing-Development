@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  An open-source unblocked games website built with simplicity in mind.
+  Have a good day -- Nothing Development
 </p>
   
 - Play and have fun!
